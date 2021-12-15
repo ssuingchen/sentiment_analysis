@@ -43,7 +43,7 @@ Testing Command:
 
 ## LSTM Five Point Scale
 
-Please run the following code in the Five_Point.ipynb notebook <br>
+Please run the following code in the Five_Points.ipynb notebook <br>
 The dataset is Twitter-sentiment-self-drive-DFE.csv
 
 These are the hyperparameters used
@@ -70,7 +70,7 @@ Testing Command:
 
 ## Machine Learning Five Point Scale
 
-Please run the following code to prepare data for machine learning models. <br>
+Please run the following code to prepare data for machine learning models in Five_Points.ipynb. <br>
 The code is also provided in the notebook. <br>
 Then, go into the ipynb file and run the cell for the all the six machine learning models <br>
 The dataset is Twitter-sentiment-self-drive-DFE.csv
