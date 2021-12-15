@@ -1,7 +1,10 @@
 # sentiment_analysis
 This project implemented neural network and machine learning to classify tweets with sentiment labels.
 
-## RNN models used Glove Embeddings, and the file is not provided in this repository. 
+## Library
+- pip install vaderSentiment
+
+### RNN models used Glove Embeddings, and the file is not provided in this repository. 
 
 ## BERT
 
