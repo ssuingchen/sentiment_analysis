@@ -4,7 +4,8 @@ This project implemented neural network and machine learning to classify tweets 
 ## Library
 - pip install vaderSentiment
 
-### RNN models used Glove Embeddings, and the file is not provided in this repository. 
+## Glove
+RNN models used Glove Embeddings, and the file is not provided in this repository. 
 
 ## BERT
 
